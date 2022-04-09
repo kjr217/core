@@ -17,10 +17,10 @@ cache
 coverage
 coverage.json
 deploy
+types
 deployments/localhost
 hardhat.config.ts
 scripts
-test
 typechain-types
 
 # misc
